@@ -1,13 +1,13 @@
 
 #EXTM3U
-#EXTINF:-1, group-title="SERIES 24/7"
-#EXTINF:-1,24/7 | Cine Accion
-#EXTINF:-1, group-title="SERIES 24/7"
+ 
+#EXTINF:-1 group-title="SERIES 24/7",24/7 | Cine Accion
+
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2544
 
 
-#EXTINF:-1, group-title="SERIES 24/7"
-#EXTINF:-1,24/7 | TRES VECES ANA 
+
+#EXTINF:-1 group-title="SERIES 24/7",24/7 | TRES VECES ANA 
 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2551
 
@@ -308,7 +308,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/2546
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2548
 
 
-#EXTINF:-1, group-title="SERIES 24/7"
+#EXTINF:-1 group-title="SERIES 24/7" 
 #EXTINF:-1,24/7 | MI BELLA GENIO SD
 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2549
